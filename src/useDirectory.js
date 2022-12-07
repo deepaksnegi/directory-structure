@@ -1,7 +1,7 @@
 const useDirectory = () => {
   const insertItem = (root, parentId, item) => {
     if (root.id === parentId && root.isFolder) {
-      root.child.push({ ...item, id: new Date().valueOf() });
+      root.child.unshift({ ...item, id: new Date().valueOf() });
       return root;
     }
 

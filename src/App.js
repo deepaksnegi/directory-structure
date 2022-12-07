@@ -1,7 +1,7 @@
 import Folder from "./Folder";
 import "./styles.css";
 import directory from "./directory.json";
-import useDirectory from "../useDirectory";
+import useDirectory from "./useDirectory";
 import { useState } from "react";
 
 export default function App() {
