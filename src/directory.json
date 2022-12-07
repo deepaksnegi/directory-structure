@@ -1,0 +1,52 @@
+{
+  "id": 1,
+  "name": "root",
+  "isFolder": true,
+  "child": [
+    {
+      "id": 2,
+      "name": "src",
+      "isFolder": true,
+      "child": [
+        {
+          "id": 5,
+          "name": "components",
+          "isFolder": true,
+          "child": [
+            {
+              "id": 9,
+              "name": "nav.js",
+              "isFolder": false
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": "app.js",
+          "isFolder": false
+        },
+        {
+          "id": 7,
+          "name": "index.js",
+          "isFolder": false
+        },
+        {
+          "id": 8,
+          "name": "style.css",
+          "isFolder": false
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "public",
+      "isFolder": true,
+      "child": []
+    },
+    {
+      "id": 4,
+      "name": "package.json",
+      "isFolder": false
+    }
+  ]
+}
