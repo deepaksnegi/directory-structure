@@ -1,8 +1,8 @@
 # File Explorer
 
 A File Explorer like UI structure built in React Js.
--Allow to epxand and collapse directories
--Allow to create new directory or file inside any directory. 
+- Allow user to epxand and collapse directories.
+- Allow user to create new directory or file inside any directory. 
 
 Screenshots:
 
